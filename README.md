@@ -1,6 +1,6 @@
 # manproject-git
 
-this course was use for learinggit@github.com
+this course was use for learning git@github.com
 
 Michael-Oko22/manproject-git.git
 
